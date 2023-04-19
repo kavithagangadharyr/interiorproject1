@@ -1,0 +1,22 @@
+h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 16px;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  img {
+    max-width: 800%;
+    height: auto;
+    display: block;
+    margin: 16px auto;
+  }
+  

@@ -1,0 +1,24 @@
+.hero {
+  background: url('../images/hero2.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+.hero-image img {
+  display: none;
+}
+
+.hero-content {
+  background-color: rgba(255, 255, 255, 0.836);
+  padding: 30px;
+  border-radius: 5px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.hero-content h1,
+.hero-content h2,
+.hero-content p,
+.hero-content a {
+  color: black;
+}
